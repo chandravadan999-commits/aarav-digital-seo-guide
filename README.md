@@ -61,6 +61,7 @@ Explore practical guides and resources published by Aarav Digital Marketing Agen
 5. [Social Media Marketing Guide](social-media-marketing-guide.md)
 6. [Lead Generation Guide](lead-generation-guide.md)
 7. [Digital Marketing Strategy Guide](digital-marketing-strategy-guide.md)
+8. [Digital Marketing FAQs](digital-marketing-faq.md)
 
 ## About Aarav Digital
 
